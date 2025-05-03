@@ -1394,7 +1394,7 @@ ol {
 }
 .contact-area .contact-infos .contact-details li + li {
     margin-top: 0px;
-    margin-left: 100px;
+    margin-left: 45px;
 
 }
 .contact-area .contact-infos .contact-details li .icon-box {
@@ -1838,6 +1838,11 @@ ol {
 .performance{
     display: none!important;
 }
+
+.cms{
+display: none!important;
+}
+    
 
 canvas {
     display: block;
