@@ -299,7 +299,7 @@ ol {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    gap: 80px;
+    gap: 55px;
     margin-bottom: 56px;
     margin-top: 46px;
 }
@@ -1840,6 +1840,10 @@ ol {
 }
 
 .cms{
+display: none!important;
+}
+
+.mobile{
 display: none!important;
 }
     
